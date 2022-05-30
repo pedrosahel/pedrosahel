@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey people, welcome to my GitHub profile!
+### I'm Pedro Sahel, but you can also call me by my nickname LordeSaphe. I'm 26yo, born and raised in Fortaleza-CE.
+
+- ⚡ What I'm doing: Always studying and learning new technologies. I’m currently learning React and forever passionate about game developer using C# in Unity!
+- 😄 Pronouns: He/Him.
 
 <!--
 **pedrosahel/pedrosahel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
