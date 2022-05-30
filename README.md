@@ -1,8 +1,12 @@
 ### Hey people :v:, welcome to my GitHub profile!
 ### I'm Pedro Sahel, but you can also call me by my nickname LordeSaphe. I'm 26yo, born and raised in Fortaleza-CE :sunny:.
 
-- ⚡ What I'm doing: Always studying and learning new technologies. I’m currently learning React and forever passionate about game developer using C# in Unity!
+### About me:
+
 - 😄 Pronouns: He/Him.
+- :books: Studying: React, TypeScript, C#, Unity.
+- :pencil2: I'm really passionate about digital art and as a hobby i'm always studying Blender, Aseprite, Photoshop.
+- :sunglasses: I really love to play volleyball at the beach.
 
 ### Languages and Tools:
 
