@@ -1,10 +1,10 @@
 ### Hey people :v:, welcome to my GitHub profile!
-### I'm Pedro Sahel, but you can also call me by my nickname LordeSaphe. I'm 26yo, born and raised in Fortaleza-CE :sunny:.
+### I'm Pedro Sahel I'm 26yo, born and raised in Fortaleza-CE :sunny:.
 
 ### About me:
 
 - 😄 Pronouns: He/Him.
-- :books: Studying: React, TypeScript, C#, Unity.
+- :books: Studying: HTML, CSS, TypeScript, C#, Unity.
 - :pencil2: I'm really passionate about digital art and as a hobby i'm always studying Blender, Aseprite, Photoshop.
 - :sunglasses: I really love to play volleyball at the beach.
 
